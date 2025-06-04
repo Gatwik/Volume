@@ -1,6 +1,4 @@
 import scipy.integrate as spi
-
-# Define the function z = x^2 + y^2
 def integrand(y, x):
     return x**2 + y**2
 
